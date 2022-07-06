@@ -1,0 +1,10 @@
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.AssemblyReference.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb

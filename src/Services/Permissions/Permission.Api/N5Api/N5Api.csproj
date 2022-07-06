@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="10.0.1" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\Common\Service.Common.Collection\Service.Common.Collection.csproj" />
+    <ProjectReference Include="..\..\Permission.Persistence.Database\Permission.Persistence.Database.csproj" />
+    <ProjectReference Include="..\..\Permission.Services.EventHandlers\Permission.Services.EventHandlers.csproj" />
+    <ProjectReference Include="..\..\Permission.Services.Queries\Permission.Services.Queries.csproj" />
+  </ItemGroup>
+
+
+</Project>

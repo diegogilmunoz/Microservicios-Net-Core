@@ -1,0 +1,15 @@
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.deps.json
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\bin\Debug\net5.0\ref\Service.Common.Paging.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Paging.pdb
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Collection.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\bin\Debug\net5.0\Service.Common.Collection.pdb
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.AssemblyReference.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.AssemblyInfoInputs.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.AssemblyInfo.cs
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.CoreCompileInputs.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.csproj.CopyComplete
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\ref\Service.Common.Paging.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Common\Service.Common.Paging\obj\Debug\net5.0\Service.Common.Paging.pdb

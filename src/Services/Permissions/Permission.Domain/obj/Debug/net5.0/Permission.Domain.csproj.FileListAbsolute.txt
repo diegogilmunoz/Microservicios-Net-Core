@@ -1,0 +1,12 @@
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\bin\Debug\net5.0\Permission.Domain.deps.json
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\bin\Debug\net5.0\Permission.Domain.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\bin\Debug\net5.0\ref\Permission.Domain.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\bin\Debug\net5.0\Permission.Domain.pdb
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\Permission.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\Permission.Domain.AssemblyInfoInputs.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\Permission.Domain.AssemblyInfo.cs
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\Permission.Domain.csproj.CoreCompileInputs.cache
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\Permission.Domain.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\ref\Permission.Domain.dll
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\Permission.Domain.pdb
+E:\Diego\Cv\Linkedin\N5Api\src\Services\Permissions\Permission.Domain\obj\Debug\net5.0\Permission.Domain.csproj.AssemblyReference.cache
